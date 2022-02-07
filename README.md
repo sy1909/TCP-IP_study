@@ -11,25 +11,25 @@
 ## 
 
 - 1차시
-  - Ch1. 네트워크 프로그래밍과 소켓의 이해
+  - [Ch1. 네트워크 프로그래밍과 소켓의 이해](https://github.com/sy1909/TCP-IP_study/issues/2)
     - 01-3 윈도우 기반으로 구현하기
 - 2차시
-  - Ch2. 소켓의 타입과 프로토콜의 설정
+  - [Ch2. 소켓의 타입과 프로토콜의 설정](https://github.com/sy1909/TCP-IP_study/issues/3)
     - 02-2 윈도우 기반에서 이해 및 확인하기
 - 3차시
-  - Ch3. 주소체계와 데이터 정렬
+  - [Ch3. 주소체계와 데이터 정렬](https://github.com/sy1909/TCP-IP_study/issues/4)
     - 03-4 윈도우 기반으로 구현하기
 - 4차시
-  - Ch4. TCP 기반 서버/클라이언트 1
+  - [Ch4. TCP 기반 서버/클라이언트 1](https://github.com/sy1909/TCP-IP_study/issues/5)
     - 04-2 TCP 기반 서버, 클라이언트 구현
 - 5차시
-  - Ch5. TCP 기반 서버/클라이언트 2
+  - [Ch5. TCP 기반 서버/클라이언트 2](https://github.com/sy1909/TCP-IP_study/issues/6)
     - 05-1 에코 클라이언트의 완벽 구현!
 - 6차시
-  - Ch6. UDP 기반 서버/클라이언트
+  - [Ch6. UDP 기반 서버/클라이언트](https://github.com/sy1909/TCP-IP_study/issues/7)
     - 06-2 UDP 기반 서버/클라이언트의 구현
 - 7차시
-  - Ch7. 소켓의 우아한 연결 종료
+  - [Ch7. 소켓의 우아한 연결 종료](https://github.com/sy1909/TCP-IP_study/issues/8)
     - 07-2 윈도우 기반으로 구현하기
 - 8차시
   - Ch9. 소켓의 다양한 옵션
