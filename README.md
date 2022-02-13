@@ -31,13 +31,13 @@
 - [7차시](https://github.com/sy1909/TCP-IP_study/issues/8)
   - Ch7. 소켓의 우아한 연결 종료
     - 07-2 윈도우 기반으로 구현하기
-- 8차시
+- [8차시](https://github.com/sy1909/TCP-IP_study/issues/9)
   - Ch9. 소켓의 다양한 옵션
     - 09-1 소켓의 옵션과 입출력 버퍼의 크기
-- 9차시
+- [9차시](https://github.com/sy1909/TCP-IP_study/issues/10)
   - Ch10. 멀티프로세스 기반의 서버 구현
     - 10-2 프로세스 & 좀비(Zombie) 프로세스
-- 10차시
+- [10차시](https://github.com/sy1909/TCP-IP_study/issues/11)
   - Ch10. 멀티프로세스 기반의 서버 구현
     - 10-5 TCP의 입출력 루틴(Routine) 분할
 - 11차시
