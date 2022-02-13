@@ -40,7 +40,7 @@
 - [10차시](https://github.com/sy1909/TCP-IP_study/issues/11)
   - Ch10. 멀티프로세스 기반의 서버 구현
     - 10-5 TCP의 입출력 루틴(Routine) 분할
-- 11차시
+- [11차시](https://github.com/sy1909/TCP-IP_study/issues/12)
   - Ch12. IO 멀티플렉싱(Multiplexing)
     - 12-1 IO 멀티플렉싱 기반의 서버
 - 12차시
