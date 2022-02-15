@@ -43,7 +43,7 @@
 - [11차시](https://github.com/sy1909/TCP-IP_study/issues/12)
   - Ch12. IO 멀티플렉싱(Multiplexing)
     - 12-1 IO 멀티플렉싱 기반의 서버
-- 12차시
+- [12차시](https://github.com/sy1909/TCP-IP_study/issues/13)
   - Ch12. IO 멀티플렉싱(Multiplexing)
     - 12-3 윈도우 기반으로 구현하기
 - 13차시
