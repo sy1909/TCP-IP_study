@@ -49,7 +49,7 @@
 - [13차시](https://github.com/sy1909/TCP-IP_study/issues/14)
   - Ch13. 다양한 입출력 함수들
     - 13-2 readv & writev 입출력 함수
-- 14차시
+- [14차시](https://github.com/sy1909/TCP-IP_study/issues/15)
   - Ch14. 멀티캐스트 & 브로드캐스트
     - 14-3 윈도우 기반으로 구현하기
 - 15차시
