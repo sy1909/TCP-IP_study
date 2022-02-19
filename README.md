@@ -46,7 +46,7 @@
 - [12차시](https://github.com/sy1909/TCP-IP_study/issues/13)
   - Ch12. IO 멀티플렉싱(Multiplexing)
     - 12-3 윈도우 기반으로 구현하기
-- 13차시
+- [13차시](https://github.com/sy1909/TCP-IP_study/issues/14)
   - Ch13. 다양한 입출력 함수들
     - 13-2 readv & writev 입출력 함수
 - 14차시
