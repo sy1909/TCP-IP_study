@@ -52,7 +52,7 @@
 - [14차시](https://github.com/sy1909/TCP-IP_study/issues/15)
   - Ch14. 멀티캐스트 & 브로드캐스트
     - 14-3 윈도우 기반으로 구현하기
-- 15차시
+- [15차시](https://github.com/sy1909/TCP-IP_study/issues/16)
   - Ch16. 입출력 스트림의 분리에 대한 나머지 이야기
     - 16-1 입력 스트림과 출력 스트림의 분리
 - 16차시
