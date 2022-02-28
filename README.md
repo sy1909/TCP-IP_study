@@ -55,7 +55,7 @@
 - [15차시](https://github.com/sy1909/TCP-IP_study/issues/16)
   - Ch16. 입출력 스트림의 분리에 대한 나머지 이야기
     - 16-1 입력 스트림과 출력 스트림의 분리
-- 16차시
+- [16차시](https://github.com/sy1909/TCP-IP_study/issues/17)
   - Ch17. select보다 나은 epoll
     - 17-1 epoll의 이해와 활용
 - 17차시
