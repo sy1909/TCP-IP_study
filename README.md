@@ -58,7 +58,7 @@
 - [16차시](https://github.com/sy1909/TCP-IP_study/issues/17)
   - Ch17. select보다 나은 epoll
     - 17-1 epoll의 이해와 활용
-- 17차시
+- [17차시](https://github.com/sy1909/TCP-IP_study/issues/18)
   - Ch18. 멀티쓰레드 기반의 서버구현
     - 18-1 쓰레드의 이론적 이해
 - 18차시
