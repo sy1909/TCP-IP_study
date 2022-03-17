@@ -61,7 +61,7 @@
 - [17차시](https://github.com/sy1909/TCP-IP_study/issues/18)
   - Ch18. 멀티쓰레드 기반의 서버구현
     - 18-1 쓰레드의 이론적 이해
-- [18차시](https://github.com/sy1909/TCP-IP_study/issues/19)
+- [18차시]
   - Ch18. 멀티쓰레드 기반의 서버구현
     - 18-4 쓰레드 동기화
 - 19차시
